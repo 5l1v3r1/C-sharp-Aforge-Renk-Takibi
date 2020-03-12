@@ -1,0 +1,80 @@
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\Aforge_Color_Tracking.exe.config
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\Aforge_Color_Tracking.exe
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\Aforge_Color_Tracking.pdb
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Controls.dll
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.dll
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Genetic.dll
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Imaging.dll
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Math.dll
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Neuro.dll
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Video.dll
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Vision.dll
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.xml
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Controls.xml
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Genetic.xml
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Imaging.xml
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Math.xml
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Neuro.xml
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Video.xml
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Vision.xml
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\obj\Debug\Aforge_Color_Tracking.csprojResolveAssemblyReference.cache
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\obj\Debug\Aforge_Color_Tracking.Form1.resources
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\obj\Debug\Aforge_Color_Tracking.Properties.Resources.resources
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\obj\Debug\Aforge_Color_Tracking.csproj.GenerateResource.Cache
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\obj\Debug\Aforge_Color_Tracking.exe
+C:\Users\DangerOusMaN32\Desktop\Aforge_Color_Tracking\Aforge_Color_Tracking\obj\Debug\Aforge_Color_Tracking.pdb
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\Aforge_Color_Tracking.exe.config
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\obj\Debug\Aforge_Color_Tracking.exe
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\obj\Debug\Aforge_Color_Tracking.pdb
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\Aforge_Color_Tracking.exe
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Controls.dll
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.dll
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Genetic.dll
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Imaging.dll
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Math.dll
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Neuro.dll
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Video.dll
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Vision.dll
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.xml
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Controls.xml
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Genetic.xml
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Imaging.xml
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Math.xml
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Neuro.xml
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Video.xml
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Vision.xml
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\obj\Debug\Aforge_Color_Tracking.csprojResolveAssemblyReference.cache
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\obj\Debug\Aforge_Color_Tracking.Form1.resources
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\obj\Debug\Aforge_Color_Tracking.Properties.Resources.resources
+C:\Users\DangerOusMaN32\Desktop\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\obj\Debug\Aforge_Color_Tracking.csproj.GenerateResource.Cache
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\Aforge_Color_Tracking.exe.config
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\obj\Debug\Aforge_Color_Tracking.exe
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\obj\Debug\Aforge_Color_Tracking.pdb
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\Aforge_Color_Tracking.exe
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\Aforge_Color_Tracking.pdb
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Controls.dll
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.dll
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Genetic.dll
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Imaging.dll
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Math.dll
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Neuro.dll
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Video.DirectShow.dll
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Video.dll
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Vision.dll
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.xml
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Controls.xml
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Genetic.xml
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Imaging.xml
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Math.xml
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Neuro.xml
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Video.xml
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Video.DirectShow.xml
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\bin\Debug\AForge.Vision.xml
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\obj\Debug\Aforge_Color_Tracking.csprojResolveAssemblyReference.cache
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\obj\Debug\Aforge_Color_Tracking.Form1.resources
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\obj\Debug\Aforge_Color_Tracking.Properties.Resources.resources
+F:\Programlarım\c# karışık projeler\Yeni klasör\Aforge_Color_Tracking\Aforge_Color_Tracking\obj\Debug\Aforge_Color_Tracking.csproj.GenerateResource.Cache
